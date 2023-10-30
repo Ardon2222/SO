@@ -5,4 +5,5 @@ top
 y comando utilizado para ejecutar este
 
 kill PID | (Ej: Kill 5104)
+
 -Elimina el proceso con el numero de identificacion colocado
