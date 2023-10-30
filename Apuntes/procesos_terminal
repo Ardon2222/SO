@@ -1,0 +1,8 @@
+
+top
+
+-Abre una especie de administrador de tareas con todos los procesos y el PID (Idetificador del proceso) 
+y comando utilizado para ejecutar este
+
+kill PID | (Ej: Kill 5104)
+-Elimina el proceso con el numero de identificacion colocado
