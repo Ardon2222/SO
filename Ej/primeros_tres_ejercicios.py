@@ -6,11 +6,13 @@
 #   for n in array:
 #       print("Mi nombre es: ", n)
 
+import time
+
 def metodo3():
    while True:
 
        time.sleep(1)
-       print(Mimiendo estoy)
+       print("Mimiendo estoy")
 
 
 #if __name__ == "__main__":
