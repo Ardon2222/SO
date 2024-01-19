@@ -14,3 +14,7 @@ psql
 \c <base_de_datos>
 
 -Puedes conectarte a una base de datos
+
+\dt (Tambien sirve \d)
+
+-Puedes ver las tablas de la base de datos
