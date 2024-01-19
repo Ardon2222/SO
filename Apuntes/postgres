@@ -1,0 +1,16 @@
+
+sudo -i -u postgres
+
+-Es un comando para entrar al usuario postrgres (En equipos Linux)
+
+psql
+
+-Entra en postgres/psql/la base de datos
+
+\l
+
+-Puede ver la lista de base de datos que hay
+
+\c <base_de_datos>
+
+-Puedes conectarte a una base de datos
